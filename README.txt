@@ -1,5 +1,8 @@
 Microwave_Oven_Project
 
+Step 1 : Open MPLAB.IDE -> Select Board -> PIC16F877A
+Step 2 : Upload the .hex file in the MPLAB.IDE 
+
 1. Menu Screen
 	SW1 - Micro mode
 	SW2 - Grill mode
